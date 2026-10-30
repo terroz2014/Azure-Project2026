@@ -1,0 +1,15 @@
+{
+	"name": "TeresaDFinal",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84fe4e88-8fd2-4db0-a40c-29288a08eb7b",
+		"tenantId": "2ce13e5e-6d07-4f5f-a025-74db9a950193"
+	}
+}
