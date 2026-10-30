@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Execute pl_emr_src_to_bronze",
+				"description": "execute this pipeline",
 				"type": "ExecutePipeline",
 				"dependsOn": [],
 				"policy": {
